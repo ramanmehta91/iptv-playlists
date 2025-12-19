@@ -1,0 +1,50 @@
+#EXTM3U
+
+# ================== INTERNATIONAL | HD NEWS ==================
+
+#EXTINF:-1 group-title="News | HD",BBC News HD
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_world_news/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 group-title="News | HD",DW English HD
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124400/master.m3u8
+
+#EXTINF:-1 group-title="News | HD",France 24 English HD
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="News | HD",Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="News | HD",NHK World HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld_tv/live.m3u8
+
+# ================== EUROPE | HD ==================
+
+#EXTINF:-1 group-title="Europe | HD",RTVE 24h HD
+https://rtvelivestream.akamaized.net/rtve24h/rtve24h_main.m3u8
+
+#EXTINF:-1 group-title="Europe | HD",SVT World HD
+https://svtworld-svt1.akamaized.net/hls/live/2001827/svtworld/master.m3u8
+
+#EXTINF:-1 group-title="Europe | HD",RAI News 24 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&channel=rainews24&mode=livestream
+
+# ================== AMERICAS | HD ==================
+
+#EXTINF:-1 group-title="Americas | HD",PBS HD
+https://pbs.akamaized.net/hls/live/2030000/pbs/master.m3u8
+
+#EXTINF:-1 group-title="Americas | HD",NASA TV HD
+https://ntv1-lh.akamaihd.net/i/NASA_1@319270/master.m3u8
+
+# ================== ASIA | HD ==================
+
+#EXTINF:-1 group-title="Asia | HD",Arirang TV HD
+https://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
+
+#EXTINF:-1 group-title="Asia | HD",CGTN News HD
+https://english-livetx.cgtn.com/hls/live/2016681/hd.m3u8
+
+# ================== DOCUMENTARY | HD ==================
+
+#EXTINF:-1 group-title="Documentary | HD",CGTN Documentary HD
+https://english-livetx.cgtn.com/hls/live/2016682/hd.m3u8
